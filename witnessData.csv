@@ -1,0 +1,10160 @@
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,u, ,e, ,d
+X,e,v,l,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,d, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,u, ,e, ,d
+X,e,v,e,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,r,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,u, ,e, ,d
+X,e,v,e,v,l,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,u, ,e, ,d
+X,e,v,l,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,u, ,d, ,e
+X,e,v,e,v,r,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,u, ,d, ,e
+X,e,v,e,v,e,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,u, ,d, ,e
+X,e,v,l,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,l,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,r,F
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,d, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,r,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,r,F
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,r,F
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,e,v,e,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,d, ,d, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,d, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,r,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,e,v
+u, ,d, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,r,v,e,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,e,v,l,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,e,v,l,v,l,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,r,v
+u, ,u, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,e,v,e,v
+u, ,u, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,e,v,l,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,d
+X,e,v,e,v,e,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,r,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,e,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,l,v
+u, ,d, ,e, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,d, ,d, ,u
+X,e,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,e, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,e,X,e,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,e,X,r,v
+u, ,d, ,u, ,e
+X,e,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,u, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,r,v,e,v,l,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,r,v,e,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,r,v,e,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,r,v,e,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,r,v,e,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,r,v
+u, ,e, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,r,v
+u, ,e, ,e, ,d
+b,e,v,l,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,r,v,e,v
+u, ,e, ,d, ,u
+b,e,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,r,v,e,v
+u, ,e, ,d, ,e
+b,e,v,l,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,r,v,e,v,e,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,e,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,r,v
+u, ,d, ,u, ,e
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,r,v
+u, ,d, ,u, ,d
+b,e,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,d, ,e, ,e
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,d, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,r,v,e,v,e,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,r,v,e,v,l,v
+u, ,d, ,e, ,u
+b,e,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,e, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+d, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,e
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,e,v
+e, ,u, ,d, ,u
+X,e,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,e,v,r,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,e,v,r,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,r,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,r,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,r,F
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,e,v
+e, ,u, ,u, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,e,v,l,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,r,v
+e, ,u, ,e, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,r,v
+e, ,u, ,e, ,d
+b,r,v,e,X,l,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,e
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,e
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,e,v
+u, ,e, ,d, ,u
+X,l,v,e,v,e,v
+e, ,u, ,d, ,u
+b,r,v,e,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,e, ,e, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,u, ,u, ,e
+X,r,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,d
+X,e,v,e,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,u, ,e, ,u
+X,r,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,r,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,r,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,d
+X,e,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,e
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,d
+X,l,v,l,v,e,v
+e, ,e, ,u, ,d
+b,r,v,r,X,e,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,e, ,e, ,e
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,e,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,d, ,e, ,u
+X,e,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,u, ,e, ,u
+X,r,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,l,v
+d, ,e, ,e, ,u
+X,r,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,d, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,l,v
+d, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,e,X,l,v
+e, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,l,v
+d, ,u, ,d, ,u
+X,e,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+e, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,r,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,l,v
+u, ,e, ,d, ,u
+X,l,v,l,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,d, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,d, ,e, ,u
+X,e,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+e, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,e,v,l,X,l,v
+u, ,d, ,e, ,u
+X,l,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,l,v
+e, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,e,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,e,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,l,v
+d, ,e, ,e, ,u
+X,r,v,r,v,e,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,e,v,e,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+u, ,d, ,u, ,e
+X,l,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,d, ,u, ,e
+X,l,v,e,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,r,v,e,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,e,X,e,v
+d, ,u, ,u, ,e
+X,r,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,e,X,r,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,l,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,d, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+e, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,S
+u, ,e, ,e, ,e
+X,e,v,l,X,e,v
+u, ,d, ,u, ,e
+X,l,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,l,X,e,v
+e, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+d, ,e, ,u, ,e
+X,e,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,l,X,e,v
+d, ,e, ,u, ,e
+X,r,v,e,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,e,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+d, ,u, ,e, ,e
+X,e,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+d, ,e, ,u, ,e
+X,e,v,r,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,e,v,r,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,e,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,F
+u, ,e, ,d, ,u
+X,l,v,e,X,r,v
+e, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,l,v,e,X,e,v
+d, ,u, ,e, ,e
+X,e,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+e, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,r,F
+u, ,e, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,S
+u, ,e, ,d, ,u
+X,e,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,r,X,e,f
+u, ,e, ,d, ,e
+X,e,v,l,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,r,S
+u, ,d, ,u, ,e
+X,e,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,f
+u, ,d, ,e, ,e
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,r,X,e,X,e,F
+u, ,d, ,e, ,u
+X,e,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,r,F
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,f
+e, ,u, ,d, ,e
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,r,X,e,F
+e, ,u, ,d, ,u
+X,r,v,e,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,e,X,e,f
+e, ,u, ,e, ,e
+X,r,v,e,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,r,F
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,l,X,l,X,e,f
+e, ,e, ,u, ,e
+X,r,v,r,X,e,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,f
+e, ,e, ,e, ,e
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 
+X,e,X,e,X,e,F
+e, ,e, ,e, ,u
+X,r,v,r,X,r,v
+u, ,e, ,e, ,e
+X,l,v,l,v,l,v
+e, ,e, ,e, ,u
+b,r,v,r,X,r,v
+ 

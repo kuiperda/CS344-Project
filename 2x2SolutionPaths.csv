@@ -1,0 +1,12 @@
+up,up,right,right,Solved
+up,up,right,down,right,up,Solved
+up,up,right,down,down,right,up,up,Solved
+up,right,up,right,Solved
+up,right,right,up,Solved
+up,right,down,right,up,up,Solved
+right,up,up,right,Solved
+right,up,right,up,Solved
+right,up,left,up,right,right,Solved
+right,right,up,up,Solved
+right,right,up,left,up,right,Solved
+right,right,up,left,left,up,right,right,Solved

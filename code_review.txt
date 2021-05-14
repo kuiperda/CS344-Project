@@ -1,0 +1,5 @@
+o Noticed that we go through the entire grid to check if we have have gotten every dot each time we evaluate a move. Shouldn't we do this only at the end of solving the puzzle? The evaluate move should be done to make sure don't make a wrong move
+
+o Noticed we used too many loops, we could cut down on some of those.
+
+o Rather than using a normal array, we should consider using numpy arrays

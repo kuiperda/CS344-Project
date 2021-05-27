@@ -1,119 +1,181 @@
 #!/usr/bin/env python3
 
 import random
-import csv
 import copy
-#from PIL import Image, ImageDraw
-# import numpy as np
+from PIL import Image, ImageDraw
+import os
 
-class WitnessGrid:
+# run with ./puzzle.py
+
+#TODO: clean up existing code and optimize it
+#TODO: add comments and documentation
+
+#note: unfinished currently includes both uncompleted paths and uncompleteable paths
+
+#still have to manually delete data from previous brute force attemtps when you reset class
+
+
+class WitnessPuzzle: 
+    """ Generate puzzles from The Witness!
+        - Assume typical NxN with all vertices present
+        - Assume start at bottom left and end at top left
+    """
     def __init__(self):
         self.grid = []
-        self.head = []
-
-        #we can decide which one we'd like to keep
-        self.moves = [] # e.g. up, left, etc.
-        self.trail = [] # e.g. [4,0] for the vertex 'b'
-        
+        self.trail = []
+        self.moves = []
         self.imageNum = 0
-    
-    def makeBasic2x2(self):
-        self.grid = [['v', 'e', 'v', 'e', 'f'], 
-                     ['e', ' ', 'e', ' ', 'e'],
-                     ['v', 'e', 'v', 'e', 'v'],
-                     ['e', ' ', 'e', ' ', 'e'],
-                     ['b', 'e', 'v', 'e', 'v']]
-        
+        self.puzzleNum = 0
+
+    # Basic puzzle, just draw a path to the end to solve it
     def makeBasicNxN(self, n):
-        if n > 0:
-            self.grid = [['v', 'e', 'v'], 
-                         ['e', ' ', 'e'], 
-                         ['v', 'e', 'v']]
-            for x in range(n - 1):
-                self.grid.append(['e', ' ', 'e'])
-                self.grid.append(['v', 'e', 'v'])
-            for x in range(len(self.grid)):  
-                for y in range(n - 1):
-                    if x % 2 == 0:
-                        self.grid[x].extend(['e', 'v'])
-                    else:
-                        self.grid[x].extend([' ', 'e'])
-            self.grid[0][-1] = 'f'
-            self.grid[-1][0] = 'b'
-            return self.grid
-        else: 
-            return 'Choose n >= 1 for grid size!'
+        if n < 1:
+            print("Problem: Make sure to use n >= 1 with makeBasicNxN()")
+            return
+        self.grid = [['v', 'e', 'v'], 
+                    ['e', ' ', 'e'], 
+                    ['v', 'e', 'v']]
+        for x in range(n - 1):
+            self.grid.append(['e', ' ', 'e'])
+            self.grid.append(['v', 'e', 'v'])
+        for x in range(len(self.grid)):  
+            for y in range(n - 1):
+                if x % 2 == 0:
+                    self.grid[x].extend(['e', 'v'])
+                else:
+                    self.grid[x].extend([' ', 'e'])
+        self.grid[0][-1] = 'f'
+        self.grid[-1][0] = 'b'
+        return self.grid
         
-    # note that when n is odd, a dotted grid may occasionally be unsolvable
+    # Simple puzzle, path has to cover all required vertices, marked by an X
     def makeDottedNxN(self, n, percent):
-        if n > 0:
-            self.grid = [['v', 'e', 'v'], 
-                         ['e', ' ', 'e'], 
-                         ['v', 'e', 'v']]
-            for x in range(n - 1):
-                self.grid.append(['e', ' ', 'e'])
-                self.grid.append(['v', 'e', 'v'])
-            for x in range(len(self.grid)):  
-                for y in range(n - 1):
-                    if x % 2 == 0:
-                        self.grid[x].extend(['e', 'v'])
-                    else:
-                        self.grid[x].extend([' ', 'e'])
-            self.grid[0][-1] = 'f'
-            self.grid[-1][0] = 'b'
-            
-            # add dots
+        if(percent < 0 or percent > 100):
+            print("Problem: Make sure to use 0 < percent < 100 with makeBasicDottedNxN()")
+            return
+        self.makeBasicNxN(n)
+        for x in range(len(self.grid)):
+            if x % 2 == 0:
+                for y in range(len(self.grid[x])):
+                    if self.grid[x][y] == 'v' and random.randint(1,100) <= percent:
+                        self.grid[x][y] = 'X'
+        return self.grid
+
+    # Simple puzzle, path has to separate squares of different colors
+    #TODO: colored square puzzles
+
+    # Manually try to solve a puzzle
+    def playPuzzle(self):
+        if(len(self.grid) < 3):
+            print("Problem: Make sure to create a puzzle before trying playPuzzle()")
+            return
+        self.trail = [[len(self.grid) - 1, 0]]
+        self.moves = []
+
+        state = "Unfinished"
+        while(state == "Unfinished"):
+            choice = input("Type w,a,s,d for up/left/down/right: ")
+            if choice == 'w':
+                action = self.moveup()
+            elif choice == 'a':
+                action = self.moveleft()
+            elif choice == 's':
+                action = self.movedown()
+            elif choice == 'd':
+                action = self.moveright()
+            else:
+                print("Problem: Make sure to choose w/a/s/d in playPuzzle()")
+                return
+            print(action)
+            if action == "Solved" or action == "Finished" or action[0:7] == "Invalid":
+                break
+
+    # Movement
+    def moveup(self):
+        row, col = self.trail[-1]
+        if row > 0 and self.grid[row - 1][col] == 'e':
+            if self.trail.count([row - 2, col]) > 0:
+                return 'Invalid: Crossed Path!'
+            self.trail.append([row - 2, col])
+            self.moves.append('up')
+            return self.checkIfDone()
+        return 'Invalid: Out of Bounds!'
+    def movedown(self):
+        row, col = self.trail[-1]
+        if row < len(self.grid) - 1 and self.grid[row + 1][col] == 'e':
+            if self.trail.count([row + 2, col]) > 0:
+                return 'Invalid: Crossed Path!'
+            self.trail.append([row + 2, col])
+            self.moves.append('down')
+            return self.checkIfDone()
+        return 'Invalid: Out of Bounds!'
+    def moveleft(self):
+        row, col = self.trail[-1]
+        if col > 0 and self.grid[row][col-1] == 'e':
+            if self.trail.count([row, col - 2]) > 0:
+                return 'Invalid: Crossed Path!'
+            self.trail.append([row, col - 2])
+            self.moves.append('left')
+            return self.checkIfDone()
+        return 'Invalid: Out of Bounds!'
+    def moveright(self):
+        row, col = self.trail[-1]
+        if col < len(self.grid) - 1 and self.grid[row][col + 1] == 'e':
+            if self.trail.count([row, col + 2]) > 0:
+                return 'Invalid: Crossed Path!'
+            self.trail.append([row, col + 2])
+            self.moves.append('right')
+            return self.checkIfDone()
+        return 'Invalid: Out of Bounds!'
+
+    # After moving, check if the end was reached and if the puzzle was solved
+    def checkIfDone(self):
+        row, col = self.trail[-1]
+
+        if self.grid[row][col] == 'f':
+            gotEveryDot = True
             for x in range(len(self.grid)):
+                if gotEveryDot == False: break
                 if x % 2 == 0:
                     for y in range(len(self.grid[x])):
-                        if self.grid[x][y] == 'v' and random.randint(1,100) <= percent:
-                            self.grid[x][y] = 'X'
-            
-            return self.grid
-        else: 
-            return 'Choose n >= 1 for grid size!'
-        
-    def begin(self):
-        self.head = []
-        self.trail = []
-        self.moves = []
-        for row in self.grid:
-            for item in row:
-                if item == 'b':
-                    self.head = [self.grid.index(row), row.index(item)]
-                    self.trail.append(self.head)
+                        if self.grid[x][y] == 'X':
+                            if [x, y] not in self.trail:
+                                gotEveryDot = False
+                                break
+            if gotEveryDot == True:
+                return 'Solved'
+            else:
+                return 'Finished'
+        else:
+            return self.moves
 
-    # assumes you already had a grid made
-    def startBruteForce(self):
-        self.head = []
+    def startBruteForceSolution(self):
+        if(len(self.grid) < 3):
+            print("Problem: Make sure to create a puzzle before trying startBruteForceSolution()")
+            return
+        self.trail = [[len(self.grid) - 1, 0]]
         self.moves = []
-        self.trail = []
-        self.begin()
-        
         self.bruteForceStep('up')
-        self.bruteForceStep('right')
-        self.bruteForceStep('down')
         self.bruteForceStep('left')
+        self.bruteForceStep('down')
+        self.bruteForceStep('right')
         
-        return 'Done!'
+        self.puzzleNum += 1
+        return 'Brute Force Done!'
         
     def bruteForceStep(self, direction):
-        
         if direction == 'up':
             result = self.moveup()
-        elif direction == 'down':
-            result = self.movedown()
         elif direction == 'left':
             result = self.moveleft() 
+        elif direction == 'down':
+            result = self.movedown()
         elif direction == 'right':
             result = self.moveright()
-            
+
         if result[0:7] == 'Invalid':
             return
- #             self.write(self.moves + [direction, 'Invalid'])
 
- #         # was not invalid. save a 'screenshot' of the state of the board.
- #         # this is a hacky solution, won't generalize if start is not in bottom left.
         gridToSend = copy.deepcopy(self.grid)
         head = [len(gridToSend[0]) - 1, 0]
         for move in self.moves:
@@ -121,10 +183,6 @@ class WitnessGrid:
                 head[0] -= 1
                 gridToSend[head[0]][head[1]] = 'u'
                 head[0] -= 1
-            elif move == 'right':
-                head[1] += 1
-                gridToSend[head[0]][head[1]] = 'r'
-                head[1] += 1
             elif move == 'left':
                 head[1] -= 1
                 gridToSend[head[0]][head[1]] = 'l'
@@ -133,21 +191,21 @@ class WitnessGrid:
                 head[0] += 1
                 gridToSend[head[0]][head[1]] = 'd'
                 head[0] += 1
+            elif move == 'right':
+                head[1] += 1
+                gridToSend[head[0]][head[1]] = 'r'
+                head[1] += 1
             else:
-                print("error")
-                
+                print("Error inscribing path in bruteForceStep()")
 
-        if result == 'Solved!':
+        if result == 'Solved':
             gridToSend[0][len(gridToSend) - 1] = 'S'
             self.writeGrid(gridToSend)
- #             self.write(self.moves + ['Solved'])
-        elif result[0:8] == 'Finished':
+        elif result == 'Finished':
             gridToSend[0][len(gridToSend) - 1] = 'F'
             self.writeGrid(gridToSend)
- #             self.write(self.moves + ['Finished'])
         else:
             self.writeGrid(gridToSend)
- #             self.write(self.moves)
             
             self.bruteForceStep('up')
             self.bruteForceStep('right')
@@ -158,201 +216,81 @@ class WitnessGrid:
         self.trail.pop()
 
     def writeGrid(self, grid):
-        filename = "witnessData.csv"
-        with open(filename, 'a') as csvfile: 
-            csvwriter = csv.writer(csvfile) 
-            for row in grid:
-                csvwriter.writerow(row) 
-            csvwriter.writerow(" ")
-            
-        #make an image
-        # solved = False
-        # finished = False
-    
-        # dim = len(grid[0])
-        # pxSize = 100
-        
-        # w = dim * pxSize #make pixels 100 big
-        # h = dim * pxSize
+        # print(grid[0][-1])
 
-        # img  = Image.new( mode = "RGB", size = (w, h) )
-        # draw = ImageDraw.Draw(img)
+        solved = False
+        finished = False
+    
+        dim = len(grid[0])
+        pxSize = 100
+        w = dim * pxSize
+        h = dim * pxSize
+
+        img  = Image.new( mode = "RGB", size = (w, h) )
+        draw = ImageDraw.Draw(img)
         
-        # for x in range(dim):
-        #     for y in range(dim):
+        for x in range(dim):
+            for y in range(dim):
                 
-        #         char = grid[y][x]
-        #         if char == 'v': # vertices are grey
-        #             fillcolor = '#808080'
-        #         elif char == 'X': # required vertices are purple
-        #             fillcolor = '#800080'
-        #         elif char == 'e': # untouched edge is white
-        #             fillcolor = '#FFFFFF'
-        #         elif char == ' ': # space is black
-        #             fillcolor = '#000000'
+                char = grid[y][x]
+                if char == 'v': # vertices are grey
+                    fillcolor = '#808080'
+                elif char == 'X': # required vertices are purple
+                    fillcolor = '#800080'
+                elif char == 'e': # untouched edge is white
+                    fillcolor = '#FFFFFF'
+                elif char == ' ': # space is black
+                    fillcolor = '#000000'
                     
-        #         elif char == 'u': # all are blue (drawing path)
-        #             fillcolor = '#0000FF'
-        #         elif char == 'd': 
-        #             fillcolor = '#0000FF'
-        #         elif char == 'l': 
-        #             fillcolor = '#0000FF'
-        #         elif char == 'r': 
-        #             fillcolor = '#0000FF'
+                elif char == 'u': # all are blue (drawing path)
+                    fillcolor = '#0000FF'
+                elif char == 'd': 
+                    fillcolor = '#0000FF'
+                elif char == 'l': 
+                    fillcolor = '#0000FF'
+                elif char == 'r': 
+                    fillcolor = '#0000FF'
                     
-        #         elif char == 'b': # begin is darkkhaki
-        #             fillcolor = '#BDB76B'
-        #         elif char == 'f': # finish is silver
-        #             fillcolor = '#C0C0C0'
-        #         elif char == 'S': # solved is silver
-        #             fillcolor = '#C0C0C0'
-        #             solved = True
-        #         elif char == 'F': # finished is silver
-        #             fillcolor = '#C0C0C0'
-        #             finished = True
+                elif char == 'b': # begin is darkkhaki
+                    fillcolor = '#BDB76B'
+                elif char == 'f': # finish is silver
+                    fillcolor = '#C0C0C0'
+                elif char == 'S': # solved is silver
+                    fillcolor = '#C0C0C0'
+                    solved = True
+                elif char == 'F': # finished is silver
+                    fillcolor = '#C0C0C0'
+                    finished = True
                 
-        #         draw.rectangle((0 + x * pxSize, 0 + y * pxSize, x * pxSize + w / dim, y * pxSize + h / dim), fill=fillcolor)
-        
-        # imgfilename = './images/'
-        # if solved == True:
-        #     imgfilename += 'solved/grid'+str(self.imageNum)+'.png'
-        # elif finished == True:
-        #     imgfilename += 'finished/grid'+str(self.imageNum)+'.png'
-        # else:
-        #     imgfilename += 'unfinished/grid'+str(self.imageNum)+'.png'
-            
-        # self.imageNum += 1
-        
-        # img.save(imgfilename)
+                draw.rectangle((0 + x * pxSize, 0 + y * pxSize, x * pxSize + w / dim, y * pxSize + h / dim), fill=fillcolor)
 
-            
-    # We used this write function before changing how we set up our data    
-    # 
-    #     def write(self, path): # https://www.geeksforgeeks.org/writing-csv-files-in-python/
-    #         filename = "witnessData.csv"
-    #         with open(filename, 'a') as csvfile: 
-    #             csvwriter = csv.writer(csvfile) 
-    #             csvwriter.writerow(path) 
-            
-    def step(self):
-        choice = input("Type u,d,l,r for up/down/left/right: ")
-        if choice == 'u':
-            return self.moveup()
-        elif choice == 'd':
-            return self.movedown()
-        elif choice == 'l':
-            return self.moveleft()
-        elif choice == 'r':
-            return self.moveright()
+        imgfilename = './puzzle'+str(self.puzzleNum)+'/'
+        if solved == True:
+            imgfilename += 'solved/'
+        elif finished == True:
+            imgfilename += 'finished/'
         else:
-            print("Choose u/d/l/r")
-            return
-    
-    def evaluateState(self, move):
-        '''
-        This function returns 'Solved' if the current vertex is the final vertex
-        otherwise it returns the current trail
-        '''
-        self.moves.append(move)
-        curr_row, curr_col = self.trail[-1] #gets the last row inserted after moving
+            imgfilename += 'unfinished/'
+
+        if not os.path.exists(imgfilename):
+            os.makedirs(imgfilename)
+        imgfilename += '/grid'+str(self.imageNum)+'.png'
+            
+        self.imageNum += 1
         
-        gotEveryDot = True
-        for x in range(len(self.grid)):
-            if gotEveryDot == False: break
-            if x % 2 == 0:
-                for y in range(len(self.grid[x])):
-                    if self.grid[x][y] == 'X':
-                        if [x, y] not in self.trail:
-                            gotEveryDot = False
-                            break
-        
-        if self.grid[curr_row][curr_col] == 'f':
-            if gotEveryDot == True:
-                return 'Solved!'
-            else:
-                return 'Finished, but missed one or more dots!'
-        else:
-            return self.trail
+        img.save(imgfilename)
 
-    def getNumRows(self):
-        return len(self.grid) - 1
-    
-    def getNumCols(self):
-        return len(self.grid[0]) - 1
-    
-    def getMoves(self):
-        '''Returns the list of moves entered'''
-        return self.moves
-        
-    def moveup(self):
-        '''Gets the last position moved and checks if there is an edge
-            to the next vertex. If an edge exists, it moves up to the next
-            vertex, otherwise it returns and 'invalid' move.
-        '''
-        row, col = self.trail[-1]
-        if row >= 0 and self.grid[row - 1][col] == 'e':
-            if self.trail.count([row - 2, col]) > 0:
-                return 'Invalid: Crossed Path!'
-            self.trail.append([row - 2, col])
-            return self.evaluateState('up')
-        return 'Invalid: Out of Bounds!'
+# Manual Testing
+test = WitnessPuzzle()
 
-    def movedown(self):
-        '''Gets the last position moved and checks if there is an edge
-            to the next vertex. If an edge exists, it moves down to the next
-            vertex, otherwise it returns and 'invalid' move.
-        '''
-        row, col = self.trail[-1]
-        if row < self.getNumRows() and self.grid[row + 1][col] == 'e':
-            if self.trail.count([row + 2, col]) > 0:
-                return 'Invalid: Crossed Path!'
-            self.trail.append([row + 2, col])
-            return self.evaluateState('down')
-        return 'Invalid: Out of Bounds!'
-    
-    def moveleft(self):
-        row, col = self.trail[-1]
-        if col >= 0 and self.grid[row][col-1] == 'e':
-            if self.trail.count([row, col - 2]) > 0:
-                return 'Invalid: Crossed Path!'
-            self.trail.append([row, col - 2])
-            return self.evaluateState('left')
-        return 'Invalid: Out of Bounds!'
-    
-    def moveright(self):
-        row, col = self.trail[-1]
-        if col < self.getNumCols() and self.grid[row][col + 1] == 'e':
-            if self.trail.count([row, col + 2]) > 0:
-                return 'Invalid: Crossed Path!'
-            self.trail.append([row, col + 2])
-            return self.evaluateState('right')
-        return 'Invalid: Out of Bounds!'
+print(test.makeBasicNxN(1))
+test.startBruteForceSolution()
 
+# print(test.makeDottedNxN(1, 0))
+# test.startBruteForceSolution()
 
+# print(test.makeDottedNxN(1, 50))
+# test.startBruteForceSolution()
 
-
-
-# #test
-        # # testing out the class manually
-test = WitnessGrid()
-        # # test.makeBasic2x2()
-        # # test.makeBasicNxN(3) # make 3x3 grid
-        # # test.makeDottedNxN(2, 50) # make 2x2 grid where ~half of the vertices are 'required'
-test.makeDottedNxN(3, 26)
-print(test.grid)
-
-
-        # #more
-        # #Feel free to try other scenarios to see how the invalid part works.
-        # test.begin()
-        # step = test.step()
-        # print(step)
-        # while step != 'Invalid':
-        #     step = test.step()
-        #     print(step)
-        #     if step == 'Solved!' or step == 'Finished, but missed one or more dots!':
-        #         break
-        # print(test.getMoves())
-
-        #test.startBruteForce()
-
+# print(test.makeDottedNxN(1, 100))
+# test.startBruteForceSolution()

@@ -6,20 +6,13 @@ import random
 import copy
 from PIL import Image, ImageDraw
 import os
+import shutil
 
 # Notes:
 # - unfinished currently includes both uncompleted paths and uncompleteable paths
-# - still have to manually delete data from previous brute force attemtps when you reset class
-# - do something to increase readability of image?
+# - consider image readability?
 
-    #TODO: colored square puzzles:
-    # Done: generating the puzzle
-
-    # Need: enforce rules of the puzzle and test that they work.. only change 
-        # checkifdone, I think...
-    # change movement logs / trail to include edges you've been to
-    # just travel along the edges from one square to another, if no path there
-    #   then if different colors are connected, immediately break - not solved.
+# TODO: now think about the reinforcement learning side, maybe contact KCA with ideas?
 
 class WitnessPuzzle: 
     """ Generate puzzles from The Witness, and images of exhaustively solved puzzles.
@@ -39,6 +32,12 @@ class WitnessPuzzle:
         self.moves = [] # keeps track of moves player made since the start
         self.imageNum = 0 # for use in image generation
         self.puzzleNum = 0 # for use in image generation
+
+        # clean up old data
+        for x in range(len(os.listdir('.'))):
+            dirToDel = './puzzle'+str(x)
+            if os.path.exists(dirToDel):
+                shutil.rmtree(dirToDel)
 
     # Basic puzzle, just draw a path to the end to solve it
     def makeBasicNxN(self, n):
@@ -98,6 +97,25 @@ class WitnessPuzzle:
                         elif rand <= whitePercent + blackPercent: self.grid[x][y] = 'B'
         return self.grid
 
+    # Medium puzzle, includes dots and squares - almost exactly a copy of makeSquaresNxN()
+    def makeDottedSquaresNxN(self, n, dotPercent, whitePercent, blackPercent):
+        # make sure percents are reasonable
+        whitePercent = abs(whitePercent)
+        blackPercent = abs (blackPercent)
+        if whitePercent + blackPercent < 0 or whitePercent + blackPercent > 100:
+            print("Problem: white/black percents must add up to between 0 and 100 in makeSquaresNxN()")
+            return
+        self.makeDottedNxN(n, dotPercent)
+        # add colored squares to grid
+        for x in range(len(self.grid)):
+            if x % 2 == 1:
+                for y in range(len(self.grid[x])):
+                    if self.grid[x][y] == ' ':
+                        rand = random.randint(1, 100)
+                        if rand <= whitePercent: self.grid[x][y] = 'W'
+                        elif rand <= whitePercent + blackPercent: self.grid[x][y] = 'B'
+        return self.grid
+    
     # Manually try to solve a puzzle
     def playPuzzle(self):
         if(len(self.grid) < 3): # if grid is not even 1x1, they never made a puzzle.
@@ -340,7 +358,7 @@ class WitnessPuzzle:
     def writeGrid(self, grid):
     
         dim = len(grid[0]) # how many 'pixels' each representing vertex, edge, etc...
-        pxSize = 100 # size of each 'pixel'
+        pxSize = 10 # size of each 'pixel'
         w = dim * pxSize # width of image
         h = dim * pxSize # height of image
 
@@ -396,14 +414,26 @@ class WitnessPuzzle:
         
         img.save(imgfilename)
 
+    # make grid here manually - default is basic 3x3
+    def useMyGrid(self):
+        self.grid = [
+            ['v', 'e', 'v', 'e', 'v', 'e', 'f'],
+            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+            ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
+            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+            ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
+            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+            ['b', 'e', 'v', 'e', 'v', 'e', 'v']
+        ]
+
 # Manual Testing
+''' Note: Save any data you want to keep before running this as 
+    previous puzzle data will be deleted by the constructor!'''
 test = WitnessPuzzle()
 
-# print(test.makeSquaresNxN(2, 45, 45))
-
-print(test.makeSquaresNxN(3, 45, 45))
-test.startBruteForceSolution()
-# test.playPuzzle()
-
-# test.makeDottedNxN(2, 50)
+# test.makeDottedSquaresNxN(3, 25, 33, 33)
 # test.startBruteForceSolution()
+
+# test.useMyGrid()
+# test.startBruteForceSolution()
+

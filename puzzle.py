@@ -10,9 +10,16 @@ import os
 # Notes:
 # - unfinished currently includes both uncompleted paths and uncompleteable paths
 # - still have to manually delete data from previous brute force attemtps when you reset class
-# - make colored square puzzle next
 # - do something to increase readability of image?
-# - change the colors in the image
+
+    #TODO: colored square puzzles:
+    # Done: generating the puzzle
+
+    # Need: enforce rules of the puzzle and test that they work.. only change 
+        # checkifdone, I think...
+    # change movement logs / trail to include edges you've been to
+    # just travel along the edges from one square to another, if no path there
+    #   then if different colors are connected, immediately break - not solved.
 
 class WitnessPuzzle: 
     """ Generate puzzles from The Witness, and images of exhaustively solved puzzles.
@@ -73,11 +80,23 @@ class WitnessPuzzle:
         return self.grid
 
     # Simple puzzle, path has to separate squares of different colors
-    #TODO: colored square puzzles
-    # start with black and white on the ' ' spots...
-    # change movement logs / trail to include edges you've been to
-    # just travel along the edges from one square to another, if no path there
-    #   then if different colors are connected, immediately break - not solved.
+    def makeSquaresNxN(self, n, whitePercent, blackPercent):
+        # make sure percents are reasonable
+        whitePercent = abs(whitePercent)
+        blackPercent = abs (blackPercent)
+        if whitePercent + blackPercent < 0 or whitePercent + blackPercent > 100:
+            print("Problem: white/black percents must add up to between 0 and 100 in makeSquaresNxN()")
+            return
+        self.makeBasicNxN(n)
+        # add colored squares to grid
+        for x in range(len(self.grid)):
+            if x % 2 == 1:
+                for y in range(len(self.grid[x])):
+                    if self.grid[x][y] == ' ':
+                        rand = random.randint(1, 100)
+                        if rand <= whitePercent: self.grid[x][y] = 'W'
+                        elif rand <= whitePercent + blackPercent: self.grid[x][y] = 'B'
+        return self.grid
 
     # Manually try to solve a puzzle
     def playPuzzle(self):
@@ -112,7 +131,7 @@ class WitnessPuzzle:
                     state = "Ended"
 
             # retry or not after done
-            retryChoice = input("Quit? (q) or retry: ")
+            retryChoice = input("Quit? (q) else retry: ")
             if retryChoice == 'q': retry = False
 
     # Movement
@@ -122,6 +141,7 @@ class WitnessPuzzle:
             if self.trail.count([row - 2, col]) > 0: # move if won't cross path
                 return 'Invalid: Crossed Path!'
             # make the move and evaluate to see if you're done
+            self.trail.append([row - 1, col])
             self.trail.append([row - 2, col])
             self.moves.append('up')
             return self.checkIfDone()
@@ -131,6 +151,7 @@ class WitnessPuzzle:
         if row < len(self.grid) - 1 and self.grid[row + 1][col] == 'e':
             if self.trail.count([row + 2, col]) > 0:
                 return 'Invalid: Crossed Path!'
+            self.trail.append([row + 1, col])
             self.trail.append([row + 2, col])
             self.moves.append('down')
             return self.checkIfDone()
@@ -140,6 +161,7 @@ class WitnessPuzzle:
         if col > 0 and self.grid[row][col-1] == 'e':
             if self.trail.count([row, col - 2]) > 0:
                 return 'Invalid: Crossed Path!'
+            self.trail.append([row, col - 1])
             self.trail.append([row, col - 2])
             self.moves.append('left')
             return self.checkIfDone()
@@ -149,6 +171,7 @@ class WitnessPuzzle:
         if col < len(self.grid) - 1 and self.grid[row][col + 1] == 'e':
             if self.trail.count([row, col + 2]) > 0:
                 return 'Invalid: Crossed Path!'
+            self.trail.append([row, col + 1])
             self.trail.append([row, col + 2])
             self.moves.append('right')
             return self.checkIfDone()
@@ -163,14 +186,76 @@ class WitnessPuzzle:
             # check dots rule
             gotEveryDot = True
             for x in range(len(self.grid)):
-                if gotEveryDot == False: break
+                if not gotEveryDot: break
                 if x % 2 == 0:
                     for y in range(len(self.grid[x])):
                         if self.grid[x][y] == 'X':
                             if [x, y] not in self.trail:
                                 gotEveryDot = False
                                 break
-            if gotEveryDot == True: # all rules followed
+
+            # check squares rule
+            squaresAreHappy = True
+            remainingSquares = []
+            # populate remainingSquares with all white and black spaces
+            for x in range(len(self.grid)):
+                for y in range(len(self.grid)):
+                    if self.grid[x][y] == 'W' or self.grid[x][y] == 'B':
+                        remainingSquares.append([x, y])
+            # check adjacency
+            while len(remainingSquares) > 0 and squaresAreHappy:
+                startingSquare = remainingSquares.pop(0)
+                adjacentSquares = [startingSquare]
+                squaresToCheck = [startingSquare]
+                # add adjacent squares 'recursively' but not actually using recusion
+                currentCheckTrail = []
+                while len(squaresToCheck) > 0:
+                    currentSquare = squaresToCheck.pop(0)
+                    # check edge in each direction
+                    # up
+                    if currentSquare[0] > 1: # don't go off the grid
+                        upOne = [currentSquare[0] - 1, currentSquare[1]]
+                        if upOne not in self.trail and upOne not in currentCheckTrail:
+                            currentCheckTrail.append(upOne)
+                            upTwo = [upOne[0] - 1, upOne[1]]
+                            squaresToCheck.append(upTwo)
+                            adjacentSquares.append(upTwo)
+                    # left
+                    if currentSquare[1] > 1: # don't go off the grid
+                        leftOne = [currentSquare[0], currentSquare[1] - 1]
+                        if leftOne not in self.trail and leftOne not in currentCheckTrail:
+                            currentCheckTrail.append(leftOne)
+                            leftTwo = [leftOne[0], leftOne[1] - 1]
+                            squaresToCheck.append(leftTwo)
+                            adjacentSquares.append(leftTwo)
+                    # down
+                    if currentSquare[0] < len(self.grid) - 2: # don't go off the grid
+                        downOne = [currentSquare[0] + 1, currentSquare[1]]
+                        if downOne not in self.trail and downOne not in currentCheckTrail:
+                            currentCheckTrail.append(downOne)
+                            downTwo = [downOne[0] + 1, downOne[1]]
+                            squaresToCheck.append(downTwo)
+                            adjacentSquares.append(downTwo)
+                    # right
+                    if currentSquare[1] < len(self.grid) - 2: # don't go off the grid
+                        rightOne = [currentSquare[0], currentSquare[1] + 1]
+                        if rightOne not in self.trail and rightOne not in currentCheckTrail:
+                            currentCheckTrail.append(rightOne)
+                            rightTwo = [rightOne[0], rightOne[1] - 1]
+                            squaresToCheck.append(rightTwo)
+                            adjacentSquares.append(rightTwo)
+                # check if squares conflict
+                convertedSquares = []
+                for square in adjacentSquares:
+                    convertedSquares.append(self.grid[square[0]][square[1]])
+                if convertedSquares.count('W') > 0 and convertedSquares.count('B') > 0:
+                    squaresAreHappy = False
+                else:
+                    for square in remainingSquares:
+                        if square in adjacentSquares:
+                            remainingSquares.remove(square) # remove squares we already checked
+
+            if gotEveryDot and squaresAreHappy: # all rules followed
                 return 'Solved'
             else:
                 return 'Finished'
@@ -249,6 +334,7 @@ class WitnessPuzzle:
         # when returning to parent step, get rid of this move in the list
         self.moves.pop()
         self.trail.pop()
+        self.trail.pop()
 
     # Create the image and save it
     def writeGrid(self, grid):
@@ -272,8 +358,8 @@ class WitnessPuzzle:
                     'v': '#FFFF00', # vertices are yellow
                     'X': '#FFA500', # required vertices are orange
                     'e': '#EEE8AA', # untouched edges are palegoldenrod
-
                     ' ': '#808080', # spaces are gray
+
                     'W': '#FFFFFF', # white squares are white
                     'B': '#000000', # black squares are black
 
@@ -313,5 +399,11 @@ class WitnessPuzzle:
 # Manual Testing
 test = WitnessPuzzle()
 
-test.makeDottedNxN(2, 50)
+# print(test.makeSquaresNxN(2, 45, 45))
+
+print(test.makeSquaresNxN(3, 45, 45))
 test.startBruteForceSolution()
+# test.playPuzzle()
+
+# test.makeDottedNxN(2, 50)
+# test.startBruteForceSolution()

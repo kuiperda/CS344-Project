@@ -9,8 +9,26 @@ import os
 import shutil
 
 # Notes:
-# - unfinished currently includes both uncompleted paths and uncompleteable paths
 # - consider image readability?
+# - u/r/d/l seems unnecessary, just write path and it's apparent? - maybe
+
+# for RL path similarity- maybe still use grid representation, and just ask how many u/r/d/l do they have in common?
+# once you make all the grids, you have the arrays for the solved grids
+# then for all of the unfinished paths, assign value- based on how good they are compared to solved path?
+
+#ok - model should receive a grid/state and assign it a heuristic- model needs to be trained on a grid + heuristic. 
+# I need to take grids and assign heuristics to them for that training data. 
+# so figure out how to decide which paths are closer to being solved.
+
+# so, for each unfinished grid, figure out how many solved/finished/stuck end states it could lead to, use that for number?
+
+'''plan:
+ name each grid using its path
+ then have a separate function assign the heur. to unfinished states based on only solved states (does solved have this path? 
+    how much left if so?)
+ '''
+
+
 
 # TODO: now think about the reinforcement learning side, maybe contact KCA with ideas?
 
@@ -309,7 +327,7 @@ class WitnessPuzzle:
             result = self.moveright()
 
         if result[0:7] == 'Invalid':
-            return
+            return 'Invalid'
 
         # path was not invalid so make a grid image of this path 
         gridToSend = copy.deepcopy(self.grid)
@@ -336,26 +354,30 @@ class WitnessPuzzle:
 
         if result == 'Solved':
             gridToSend[0][len(gridToSend) - 1] = 'S'
-            self.writeGrid(gridToSend)
+            self.writeGrid(gridToSend, 'Solved')
         elif result == 'Finished':
             gridToSend[0][len(gridToSend) - 1] = 'F'
-            self.writeGrid(gridToSend)
+            self.writeGrid(gridToSend, 'Finished')
         else:
-            self.writeGrid(gridToSend)
-            
-            # if not done, apply recursive step in every direction again
-            self.bruteForceStep('up')
-            self.bruteForceStep('right')
-            self.bruteForceStep('down')
-            self.bruteForceStep('left')
-            
+            # Not done; apply recursive step in every direction again
+            upResult = self.bruteForceStep('up')
+            rightResult = self.bruteForceStep('right')
+            downResult = self.bruteForceStep('down')
+            leftResult = self.bruteForceStep('left')
+
+            # if all of these returned invalid, this path is Stuck
+            if upResult == 'Invalid' and rightResult == 'Invalid' and downResult == 'Invalid' and leftResult == 'Invalid':
+                self.writeGrid(gridToSend, 'Stuck')
+            else:
+                self.writeGrid(gridToSend, 'Unfinished')
+
         # when returning to parent step, get rid of this move in the list
         self.moves.pop()
         self.trail.pop()
         self.trail.pop()
 
     # Create the image and save it
-    def writeGrid(self, grid):
+    def writeGrid(self, grid, type):
     
         dim = len(grid[0]) # how many 'pixels' each representing vertex, edge, etc...
         pxSize = 10 # size of each 'pixel'
@@ -399,31 +421,85 @@ class WitnessPuzzle:
 
         # save the image
         imgfilename = './puzzle'+str(self.puzzleNum)+'/'
-        if grid[0][-1] == 'S':
+        if type == 'Solved':
             imgfilename += 'solved/'
-        elif grid[0][-1] == 'F':
+        elif type == 'Finished':
             imgfilename += 'finished/'
+        elif type == 'Stuck':
+            imgfilename += 'stuck/'
         else:
             imgfilename += 'unfinished/'
 
+        # name puzzles using string of their moves
+        moveString = ""
+        for move in self.moves:
+            moveString += move[0]
+
         if not os.path.exists(imgfilename):
             os.makedirs(imgfilename)
-        imgfilename += '/grid'+str(self.imageNum)+'.png'
+        # imgfilename += '/grid'+str(self.imageNum)+'.png' # name puzzles with arbitrary number instead of moves
+        imgfilename += moveString + '.png' # name puzzles with moves instead of arbitrary number
             
         self.imageNum += 1
         
         img.save(imgfilename)
 
+    # take a bruteForced grid (puzzle0, for example) and assign heuristics to the unfinished paths
+    def assignHeuristics(self, pathToPuzzle):
+        if os.path.exists(pathToPuzzle):
+            solvedPaths = []
+            unfinishedPaths = []
+            for grid in os.listdir(pathToPuzzle + '/solved'):
+                solvedPaths.append(grid[:-4]) # remove the .png at the end
+                os.rename(pathToPuzzle + '/solved/' + grid, pathToPuzzle + '/solved/' + '0' + grid)
+            for grid in os.listdir(pathToPuzzle + '/finished'):
+                os.rename(pathToPuzzle + '/finished/' + grid, pathToPuzzle + '/finished/' + '1000001' + grid)
+            for grid in os.listdir(pathToPuzzle + '/stuck'):
+                os.rename(pathToPuzzle + '/stuck/' + grid, pathToPuzzle + '/stuck/' + '1000002' + grid)
+            for grid in os.listdir(pathToPuzzle + '/unfinished'):
+                unfinishedPaths.append(grid[:-4]) # remove the .png at the end
+
+            assignedPaths = []
+            for unfinishedPath in unfinishedPaths: # TODO: make better heuristic, like how far away you are from the end
+                pathFarness = 1000000
+                for solvedPath in solvedPaths:
+                    if solvedPath[:len(unfinishedPath)] == unfinishedPath:
+                        pathFarness = min(len(solvedPath) - len(unfinishedPath),pathFarness) # NOTE: used min here, so chooses shortest path!!
+                assignedPaths.append(str(pathFarness) + unfinishedPath)
+
+            count = 0
+            for grid in os.listdir(pathToPuzzle + '/unfinished'):
+                os.rename(pathToPuzzle + '/unfinished/' + grid, pathToPuzzle + '/unfinished/' + assignedPaths[count]) # NOTE: no need to add .png?
+                count += 1
+
     # make grid here manually - default is basic 3x3
     def useMyGrid(self):
+        # self.grid = [
+        #     ['v', 'e', 'v', 'e', 'v', 'e', 'f'],
+        #     ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+        #     ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
+        #     ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+        #     ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
+        #     ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
+        #     ['b', 'e', 'v', 'e', 'v', 'e', 'v']
+        # ]
+        # self.grid = [
+        #     ['v', 'e', 'X', 'e', 'X', 'e', 'f'],
+        #     ['e', 'B', 'e', ' ', 'e', ' ', 'e'],
+        #     ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
+        #     ['e', 'W', 'e', 'W', 'e', 'B', 'e'],
+        #     ['v', 'e', 'X', 'e', 'v', 'e', 'v'],
+        #     ['e', 'B', 'e', 'W', 'e', 'B', 'e'],
+        #     ['b', 'e', 'v', 'e', 'v', 'e', 'X']
+        # ]
         self.grid = [
             ['v', 'e', 'v', 'e', 'v', 'e', 'f'],
-            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
-            ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
-            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
-            ['v', 'e', 'v', 'e', 'v', 'e', 'v'],
-            ['e', ' ', 'e', ' ', 'e', ' ', 'e'],
-            ['b', 'e', 'v', 'e', 'v', 'e', 'v']
+            ['e', ' ', 'e', 'B', 'e', 'W', 'e'],
+            ['v', 'e', 'X', 'e', 'v', 'e', 'v'],
+            ['e', 'B', 'e', ' ', 'e', 'B', 'e'],
+            ['X', 'e', 'v', 'e', 'X', 'e', 'v'],
+            ['e', 'B', 'e', ' ', 'e', ' ', 'e'],
+            ['b', 'e', 'v', 'e', 'v', 'e', 'X']
         ]
 
 # Manual Testing
@@ -434,6 +510,7 @@ test = WitnessPuzzle()
 # test.makeDottedSquaresNxN(3, 25, 33, 33)
 # test.startBruteForceSolution()
 
-# test.useMyGrid()
-# test.startBruteForceSolution()
+test.useMyGrid()
+test.startBruteForceSolution()
 
+test.assignHeuristics('./puzzle0')

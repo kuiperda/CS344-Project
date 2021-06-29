@@ -12,24 +12,6 @@ import shutil
 # - consider image readability?
 # - u/r/d/l seems unnecessary, just write path and it's apparent? - maybe
 
-# for RL path similarity- maybe still use grid representation, and just ask how many u/r/d/l do they have in common?
-# once you make all the grids, you have the arrays for the solved grids
-# then for all of the unfinished paths, assign value- based on how good they are compared to solved path?
-
-#ok - model should receive a grid/state and assign it a heuristic- model needs to be trained on a grid + heuristic. 
-# I need to take grids and assign heuristics to them for that training data. 
-# so figure out how to decide which paths are closer to being solved.
-
-# so, for each unfinished grid, figure out how many solved/finished/stuck end states it could lead to, use that for number?
-
-'''plan:
- name each grid using its path
- then have a separate function assign the heur. to unfinished states based on only solved states (does solved have this path? 
-    how much left if so?)
- '''
-
-
-
 # TODO: now think about the reinforcement learning side, maybe contact KCA with ideas?
 
 class WitnessPuzzle: 
@@ -444,7 +426,7 @@ class WitnessPuzzle:
         
         img.save(imgfilename)
 
-    # take a bruteForced grid (puzzle0, for example) and assign heuristics to the unfinished paths
+    # take a bruteForced grid (puzzle0, for example) and assign heuristics to all the grid states
     def assignHeuristics(self, pathToPuzzle):
         if os.path.exists(pathToPuzzle):
             solvedPaths = []
@@ -460,7 +442,7 @@ class WitnessPuzzle:
                 unfinishedPaths.append(grid[:-4]) # remove the .png at the end
 
             assignedPaths = []
-            for unfinishedPath in unfinishedPaths: # TODO: make better heuristic, like how far away you are from the end
+            for unfinishedPath in unfinishedPaths: # TODO: make better heuristic?
                 pathFarness = 1000000
                 for solvedPath in solvedPaths:
                     if solvedPath[:len(unfinishedPath)] == unfinishedPath:
@@ -501,16 +483,3 @@ class WitnessPuzzle:
             ['e', 'B', 'e', ' ', 'e', ' ', 'e'],
             ['b', 'e', 'v', 'e', 'v', 'e', 'X']
         ]
-
-# Manual Testing
-''' Note: Save any data you want to keep before running this as 
-    previous puzzle data will be deleted by the constructor!'''
-test = WitnessPuzzle()
-
-# test.makeDottedSquaresNxN(3, 25, 33, 33)
-# test.startBruteForceSolution()
-
-test.useMyGrid()
-test.startBruteForceSolution()
-
-test.assignHeuristics('./puzzle0')

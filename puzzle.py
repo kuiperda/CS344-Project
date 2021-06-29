@@ -427,6 +427,7 @@ class WitnessPuzzle:
         if os.path.exists(pathToPuzzle):
             solvedPaths = []
             unfinishedPaths = []
+            # get solved and unfinished grid names to assign heuristics with, and rename others with bad heuristic
             for grid in os.listdir(pathToPuzzle + '/solved'):
                 solvedPaths.append(grid[:-4]) # remove the .png at the end
                 os.rename(pathToPuzzle + '/solved/' + grid, pathToPuzzle + '/solved/' + '0' + grid)
@@ -441,11 +442,13 @@ class WitnessPuzzle:
             for unfinishedPath in unfinishedPaths: # TODO: make better heuristic?
                 pathFarness = 1000000
                 for solvedPath in solvedPaths:
+                    # check if subpath matches any solved path, and assign heuristic of how far along it is
                     if solvedPath[:len(unfinishedPath)] == unfinishedPath:
                         pathFarness = min(len(solvedPath) - len(unfinishedPath),pathFarness) # NOTE: used min here, so chooses shortest path!!
                 assignedPaths.append(str(pathFarness) + unfinishedPath)
 
             count = 0
+            # write the new names to unfinished puzzles
             for grid in os.listdir(pathToPuzzle + '/unfinished'):
                 os.rename(pathToPuzzle + '/unfinished/' + grid, pathToPuzzle + '/unfinished/' + assignedPaths[count]) # NOTE: no need to add .png?
                 count += 1

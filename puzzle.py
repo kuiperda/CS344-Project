@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-
-# run this file in its directory with './puzzle.py'
-
 import random
 import copy
 from PIL import Image, ImageDraw
